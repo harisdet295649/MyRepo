@@ -22,7 +22,7 @@ public class Loginpage extends Basepage{
 	
 	public void setEmail(String email) 
 	{
-		txtEmail.sendKeys("hari");	
+		txtEmail.sendKeys(email);	
 	}
 	
 	public void setPassword(String pwd)
